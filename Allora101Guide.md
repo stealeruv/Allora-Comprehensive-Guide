@@ -40,7 +40,6 @@ sudo usermod -aG docker $USER
 Clean Old Docker
 ```
 docker compose down -v
-docker container prune
 cd $HOME && rm -rf allora-huggingface-walkthrough
 ```
 
