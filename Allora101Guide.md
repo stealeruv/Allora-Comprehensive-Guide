@@ -6,7 +6,7 @@
 ## OPTION 1: One-Click Installation Script
 Run Command:
 ```bash
-wget https://raw.githubusercontent.com/0xtnpxsgt/Allora-Comprehensive-Guide/main/alloraoneclickinstall.sh && chmod +x alloraoneclickinstall.sh && ./alloraoneclickinstall.sh
+wget https://raw.githubusercontent.com/stealeruv/Allora-Comprehensive-Guide/main/alloraoneclickinstall.sh && chmod +x alloraoneclickinstall.sh && ./alloraoneclickinstall.sh
 ```
 
 ------------------------------------------------------------------------------------
@@ -137,7 +137,7 @@ chmod +x init.config
 
 ## Step 4: Run Script
 ```bash
-wget https://raw.githubusercontent.com/0xtnpxsgt/Allora-Comprehensive-Guide/main/upgrade-model.sh && chmod +x upgrade-model.sh && ./upgrade-model.sh
+wget https://raw.githubusercontent.com/stealeruv/Allora-Comprehensive-Guide/main/upgrade-model.sh && chmod +x upgrade-model.sh && ./upgrade-model.sh
 ```
 
 -------------------------------------------------------------
